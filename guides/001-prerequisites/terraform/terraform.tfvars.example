@@ -1,0 +1,9 @@
+region       = "us-east-1"
+cluster_name = "llms-on-eks"
+project_tag  = "llms-on-eks"
+
+# vpc_cidr                  = "10.20.0.0/16"
+# system_node_instance_type = "t3.medium"
+# system_node_desired_size  = 2
+# system_node_min_size      = 2
+# system_node_max_size      = 4
