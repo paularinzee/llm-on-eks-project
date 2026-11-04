@@ -18,7 +18,7 @@ once in Guide 001 — every subsequent guide deploys a new workload on top of it
 
 ```bash
 git clone https://github.com/paularinzee/llm-on-eks-project.git
-cd llms-on-eks
+cd llm-on-eks-project
 
 export AWS_PROFILE=your-aws-profile
 export AWS_REGION=us-east-1
