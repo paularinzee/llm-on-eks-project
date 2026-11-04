@@ -17,7 +17,7 @@ once in Guide 001 — every subsequent guide deploys a new workload on top of it
 ## Quick Start
 
 ```bash
-git clone https://github.com/anveshmuppeda/llms-on-eks
+git clone https://github.com/paularinzee/llm-on-eks-project.git
 cd llms-on-eks
 
 export AWS_PROFILE=your-aws-profile
